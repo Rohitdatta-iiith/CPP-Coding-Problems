@@ -1,3 +1,5 @@
+//Here we have been given a boolean matrix where 1 has land 0 has water
+//we will use 2 to represent that we have a already processed vertex 
 #include<iostream>
 #include<algorithm>
 using namespace std;
